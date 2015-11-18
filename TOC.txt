@@ -1,0 +1,56 @@
+Effective Agile
+===============
+A Toolbox of Agile Practices
+
+Section I - The Basics
+	Why Agile? (Intro)
+		No Silver Bullet
+		What We've Found To Work
+		Be Adaptable
+	What Is Agile?
+		Manifesto
+		Principles
+		Practices
+		Flavors (XP, Scrum, Lean, Kanban, Safe, Agile Unified Process, Dynamic Systems Development Method, Crystal)
+	Agile Mindset
+	Selling Agile
+		Beware coaches/consultants who aren't practitioners
+		Beware "flaccid" Agile
+Section II - Getting Started
+	Retrospectives
+	Standup Meetings
+	Continuous Integration
+		Source Code Management
+	User Stories
+	Test-Driven Development
+		Why We Test
+		Test First
+		It's About Design
+		BDD
+		Types of Tests
+			Unit
+			Integration
+			User Acceptance (full stack)
+			Smoke
+		Outside-In
+	Refactoring
+Section III - Getting Better
+	Iterations
+	Planning and Estimating
+		Planning poker
+		Story points
+		Relative estimation
+	Collective Ownership
+	Automation (Deployment and Other stuff)
+	Pair Programming
+	Backlog
+		Backlog pruning/grooming
+	Kanban Board
+	Metrics
+		Velocity
+		Cycle Time
+		Burndown Chart
+Section IV - Running on All Cylinders / Peak Performance / Advanced
+	Pair Switching
+	No Estimates
+	Continuous Deployment
