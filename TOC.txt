@@ -2,6 +2,11 @@ Effective Agile
 ===============
 A Toolbox of Agile Practices
 
+Front Matter
+    Foreword
+    Preface
+		Acknowledgements
+		Introduction
 Section I - The Basics
 	Why Agile? (Intro)
 		No Silver Bullet
@@ -22,6 +27,7 @@ Section II - Getting Started
 	Continuous Integration
 		Source Code Management
 	User Stories
+		Job stories
 	Test-Driven Development
 		Why We Test
 		Test First
@@ -43,6 +49,8 @@ Section III - Getting Better
 	Collective Ownership
 	Automation (Deployment and Other stuff)
 	Pair Programming
+		Learned skill
+		Don't try to learn it when working with others remotely
 	Backlog
 		Backlog pruning/grooming
 	Kanban Board
@@ -54,3 +62,4 @@ Section IV - Running on All Cylinders / Peak Performance / Advanced
 	Pair Switching
 	No Estimates
 	Continuous Deployment
+  Remote Pairing
