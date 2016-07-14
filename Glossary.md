@@ -24,7 +24,7 @@ Agile Glossary
 * collective ownership - all team members are equally responsible for all portions of the code (TODO: needs some work)
 * continuous delivery - deploying new features as soon as the code is written and fully tested
 * continuous integration - automatically running all tests whenever code is checked in
-* cycle time - expected (determined emperically) amount of time from when a story is started to when it is completed (TODO: more)
+* cycle time - expected (determined empirically) amount of time from when a story is started to when it is completed (TODO: more)
 * daily scrum - daily standup meeting, as directed by Scrum
 * daily standup - standup meeting held once a day to communicate the most important things
 * definition of done - TODO
