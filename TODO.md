@@ -1,6 +1,16 @@
 TODO
 ====
 
+* Need some graphics/pictures/diagrams (for presentation, too)
+    * Kanban board (physical and virtual)
+    * skateboard -> bike -> motorcycle -> car example
+        * Ask permission, or make my own example
+    * Diverging branches (for why we want to integrate continuously)
+* More glossary terms
+    * Conway's Law
+    * bus number
+    * definition of ready
+    * anti-pattern
 * Set some goals and deadlines
     * Some way to encourage us to keep making progress
 * Write some scripts to build the book
